@@ -1,0 +1,125 @@
+body, html{
+	height: 100%;
+}
+.topnav{
+	background-color: #d70000;
+	overflow: hidden;
+}
+.topnav a{
+	background-color: #ff0000;
+	overflow: hidden;
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 20px 20px;
+	text-decoration: none;
+	font-size: 30px;
+
+}
+/*.container{
+	width: 10px;
+	height: 10px;
+	display: inline-grid;
+	margin: auto;
+}
+.images{
+	width: 10px;
+	height
+}
+#banner{
+	 background: url(../img/mag.jpg) no-repeat center center;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 4px;
+    line-height: 1;
+    padding: 30px;
+}*/
+/*#banner img {
+    border-radius: 50%;
+    border: 8px solid white;
+    max-width: 250px;
+}
+#banner h3{
+    font-size: 14px;
+
+}*/
+/*.text h1{
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: #D70000;
+}
+.text h1{
+	font-size: 3em;
+}
+.text a button{
+	border-radius: 10px;
+	color: white;
+	border-color: white;
+	background-color: #d70000;
+	padding: 10px;
+}
+	.first button{
+		display: inline-flex;
+	
+	}*/
+	/*.second button{
+		display: inline-flex;
+		border-radius: 10px;
+		color: white;
+		border-color: white;
+		background-color: #d70000;
+		padding: 10px;
+
+}*/
+/*.img-with-text {
+    text-align: justify;
+    width: [width of img];
+}
+
+.img-with-text img {
+    display: 
+ }*/
+ div.hero-image{
+ 	background-image: url("../images/mercy1.jpg");
+ 	height: 90%;
+ 	background-position: center;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	position: relative;
+ }
+ div.hero-text{
+ 	text-align: center;
+ 	position: absolute;
+ 	top:50%;
+ 	left: 50%;
+ 	transform: translate(-50%,-50%);
+ 	color: #D70000;
+ }
+ .hero-text h1{
+ 	font-size: 3em;
+ }
+ .hero-text a button{
+ 	border-radius: 10px;
+ 	color: white;
+ 	border-color:white; 
+ 	background-color: #D70000;
+ 	padding: 10px;
+
+ }
+ /*.images{
+ 	width: 91%;
+ 	height: 400px;
+ }*/
+/**/
+/*#banner1{
+	height: 90px;
+	width: 90px;
+}*/
+.second{
+	display: inline-flex;
+}
